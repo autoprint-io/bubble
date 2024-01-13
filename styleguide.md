@@ -1,4 +1,4 @@
-# 📖 Guía de Estilo para la Documentación del Manual de B[ubble.io
+# 📖 Guía de Estilo para la Documentación del Manual de Bubble.io
 
 
 ## 🎯 Objetivo
