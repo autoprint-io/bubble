@@ -63,3 +63,54 @@ Esta guía tiene como objetivo proporcionar un marco para crear una documentaci�
 
 Esta guía de estilo actualizada y detallada para la documentación del manual de [Bubble.io](http://manual.bubble.io) ofrece una estructura coherente y efectiva para crear contenido que sea tanto informativo como atractivo visualmente. Al integrar los elementos clave de las discusiones anteriores, se asegura que la documentación sea accesible para usuarios de todos los niveles, desde principiantes hasta avanzados, y que proporcione una experiencia de aprendizaje enriquecedora y completa.
 
+
+
+
+
+## Ejemplos:
+
+### Visual Elements:
+
+1. **Text:** 📝
+2. **Button:** 🔘
+3. **Icon:** 🌟
+4. **Link:** 🔗
+5. **Image:** 🖼️
+6. **Shape:** 🔲
+7. **Alert:** 🚨
+8. **Video:** 📹
+9. **HTML:** 🌐
+10. **Map:** 🗺️
+
+### Container Type:
+
+1. **Group:** 👥
+2. **Repeating group:** 🔁
+3. **Table element:** 📊
+4. **Popup:** 💬
+5. **Floating group:** 🎈
+6. **Group focus:** 🔍
+
+### Input Forms:
+
+1. **Element:** 📦
+2. **Text input:** 📝
+3. **Multiline text:** 📖
+4. **Checkbox:** ☑️
+5. **Rich text:** 🖋️
+6. **Dropdowns:** ⏬
+7. **Search box:** 🔎
+8. **Radio buttons:** 🔘
+9. **Slider input:** 🎚️
+10. **Date/time picker:** 📅
+11. **Picture uploader:** 🖼️⬆️
+12. **File uploader:** 📂⬆️
+
+### Input Elements
+
+1. **Text:** 📝
+2. **Email:** 📧
+3. **Password:** 🔒
+4. **Integer:** 🔢
+
+
