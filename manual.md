@@ -1,1 +1,1 @@
-# 📘 *MANUAL BUBBLE ESPAÑOL*
+# 📘 MANUAL BUBBLE ESPAÑOL
