@@ -9,13 +9,13 @@
 
 
 1. **Creación de documentación técnica**
-	- *Descripción*: Escribir y formatear documentación técnica, incluyendo descripciones detalladas de código, guías de uso de software y manuales de usuario. Comunicar información técnica de manera clara y efectiva.
+	- **Descripción**: Escribir y formatear documentación técnica, incluyendo descripciones detalladas de código, guías de uso de software y manuales de usuario. Comunicar información técnica de manera clara y efectiva.
 2. **Optimización para la búsqueda y la visibilidad**
-	- *Descripción*: Utilizar etiquetas, encabezados y enlaces de manera eficiente para mejorar la visibilidad y la búsqueda de documentos en la plataforma GitHub. Garantizar la accesibilidad de la información.
+	- **Descripción**: Utilizar etiquetas, encabezados y enlaces de manera eficiente para mejorar la visibilidad y la búsqueda de documentos en la plataforma GitHub. Garantizar la accesibilidad de la información.
 3. **Asesoramiento sobre las mejores prácticas**
-	- *Descripción*: Mentorizar a otros colaboradores del proyecto proporcionando orientación sobre las mejores prácticas en la escritura de documentos GFM. Incluye estructuración, formato y mantenimiento de estándares de calidad.
+	- **Descripción**: Mentorizar a otros colaboradores del proyecto proporcionando orientación sobre las mejores prácticas en la escritura de documentos GFM. Incluye estructuración, formato y mantenimiento de estándares de calidad.
 4. **Gestión de contenido multimedia**
-	- *Descripción*: Integrar imágenes, enlaces, tablas y elementos multimedia en los documentos GFM para mejorar la comprensión y la presentación de la información. Hacer la documentación más atractiva y efectiva.
+	- **Descripción**: Integrar imágenes, enlaces, tablas y elementos multimedia en los documentos GFM para mejorar la comprensión y la presentación de la información. Hacer la documentación más atractiva y efectiva.
 
 **Optimización para la búsqueda y la visibilidad:**
 
