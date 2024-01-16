@@ -11,12 +11,10 @@ TABLE OF CONTENTS
 
 + USER MANUAL
   - Getting started  >
-    - Account & Billing
-    - Official Bubble Certification
-    - Building Plugins
-    - Building Templates
-    - Application and data ownership
-    - Bug reports
+    - What is Bubble?
+    - Building your first app
+    - Creating and managing apps
+    - The Bubble editor
   - Design  >
     - Elements
     - Styling
