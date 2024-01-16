@@ -73,15 +73,131 @@ TABLE OF CONTENTS
 + CORE REFERENCE
 - Using the core reference
 - Bubble's Interface
+    - Design tab
+    - Design tab (Legacy)
+    - Workflow tab
+    - Data tab
+    - Styles tab
+    - Styles tab (Legacy)
+    - Plugins tab
+    - Settings tab
+    - Logs tab
+    - Template tab
+    - Toolbar
+    - Top and context menu options
+    - Deployment and version control
+    - Notes
+
 - Elements
+    - General Properties
+    - General Properties (Legacy)
+    - Styling Properties
+    - Styling Properties (Legacy)
+    - Responsive Properties
+    - Responsive Properties (Legacy)
+    - Conditional formatting
+    - States
+    - Page Element
+    - Visual Elements
+    - Containers
+    - Container Layout Types
+    - Containers (Legacy)
+    - Input Forms
+    - Reusable Elements
+    - Element Templates (legacy)
+
 - Workflows
 - Events
+    - General Events
+    - Element Events
+    - Custom Events
+    - Recurring Event
+    - Trigger Event
+
 - Actions
+    - Account
+    - Navigation
+    - Data (Things)
+    - Email
+    - Element
+    - Custom
+
 - Data
+    - Data Sources
+    - Operators and comparisons
+    - Search
+    - Privacy
+
 - Styles
 - API
+    - The Bubble API
+    - The API Connector
+
 - Bubble-made Plugins
+    - AddtoAny Share Buttons
+    - Airtable
+    - API Connector
+    - Blockspring
+    - Box
+    - Braintree
+    - Bubble App Connector
+    - Chart.js
+    - Circle Music Player
+    - Disqus
+    - DocuSign
+    - Draggable Elements
+    - Dropzone
+    - Facebook
+    - Fitbit
+    - Full Calendar
+    - Google
+    - Google Analytics
+    - Google Optimize
+    - Google Places
+    - Ionic Elements
+    - Ipiphy
+    - iTunes
+    - Slidebar Menu
+    - LinkedIn
+    - Localize Translation
+    - Mailchimp
+    - Mixpanel
+    - Mouse & Keyboard Interactions
+    - Multiselect Dropdown
+    - Olark Live Chat
+    - OneSignal Web Notifications
+    - Pexels
+    - Progress Bar
+    - reCAPTCHA
+    - Rich Text Editor
+    - Rich Text Editor (Legacy)
+    - Screenshotlayer
+    - SelectPDF
+    - Slack
+    - Segment
+    - Slick Slideshow
+    - SQL Database Connector
+    - Star Rating
+    - Stripe
+    - Tinder-like Element
+    - Twilio Video Chat
+    - Twitter
+    - Wistia
+    - YouTube
+    - Zapier
+    - Ziggeo
+    - Pinterest
+
 - Application Settings
+    - App plan
+    - General
+    - Domain / email
+    - Languages
+    - SEO / metatags
+    - API
+    - Collaboration
+    - Sub-apps
+    - Versions
 
 
 
