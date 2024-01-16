@@ -10,14 +10,14 @@ TABLE OF CONTENTS
 
 
 + USER MANUAL
-  - Getting started
+  - Getting started  >
     - Account & Billing
     - Official Bubble Certification
     - Building Plugins
     - Building Templates
     - Application and data ownership
     - Bug reports
-  - Design
+  - Design  >
     - Elements
     - Styling
     - Responsive design
@@ -25,21 +25,21 @@ TABLE OF CONTENTS
     - The Component Library
     - Importing from Figma
 
-- Data
+- Data  >
     - The database
     - Files
     - Static data
     - Temporary data
     - User accounts
 
-- Logic
+- Logic  >
     - The frontend and backend
     - Workflows
     - Dynamic expressions
     - Conditions
     - Navigation
 
-- Maintenance
+- Maintenance  >
     - Collaborators
     - Version control
     - Commenting
@@ -49,20 +49,20 @@ TABLE OF CONTENTS
     - Testing and debugging
     - API workflow scheduler
 
-- Integrations
+- Integrations  >
     - API
     - Plugins
     - SQL Database Connector
     - Bubble App Connector
 
-- Infrastructure
+- Infrastructure  >
     - Security
     - Sub-apps
     - Bubble release tiers
     - Hosting and scaling
     - Compliance
 
-- Bubble for Enterprise
+- Bubble for Enterprise  >
     - Hosting and infrastructure
     - Security and compliance
     - Admin and collaboration
@@ -72,7 +72,7 @@ TABLE OF CONTENTS
 
 + CORE REFERENCE
 - Using the core reference
-- Bubble's Interface
+- Bubble's Interface  >
     - Design tab
     - Design tab (Legacy)
     - Workflow tab
@@ -88,7 +88,7 @@ TABLE OF CONTENTS
     - Deployment and version control
     - Notes
 
-- Elements
+- Elements  >
     - General Properties
     - General Properties (Legacy)
     - Styling Properties
@@ -107,14 +107,14 @@ TABLE OF CONTENTS
     - Element Templates (legacy)
 
 - Workflows
-- Events
+- Events  >
     - General Events
     - Element Events
     - Custom Events
     - Recurring Event
     - Trigger Event
 
-- Actions
+- Actions  >
     - Account
     - Navigation
     - Data (Things)
@@ -122,18 +122,18 @@ TABLE OF CONTENTS
     - Element
     - Custom
 
-- Data
+- Data  >
     - Data Sources
     - Operators and comparisons
     - Search
     - Privacy
 
 - Styles
-- API
+- API  >
     - The Bubble API
     - The API Connector
 
-- Bubble-made Plugins
+- Bubble-made Plugins  >
     - AddtoAny Share Buttons
     - Airtable
     - API Connector
@@ -188,7 +188,7 @@ TABLE OF CONTENTS
     - Ziggeo
     - Pinterest
 
-- Application Settings
+- Application Settings  >
     - App plan
     - General
     - Domain / email
@@ -203,9 +203,25 @@ TABLE OF CONTENTS
 
 
 + ACCOUNT & MARKETPLACE
-- Account & Billing
-- Official Bubble Certification
-- Building Plugins
+- Account & Billing  >
+    - Pricing and workload  >
+    - Account Management
+    - Building Apps for Others
+    - Selling on the Marketplace
+
+- Official Bubble Certification  >
+    - Hiring certified developers
+- Building Plugins  >
+    - The Plugin Editor
+    - General Settings
+    - Updating to Plugin API v4
+    - Adding API Connections
+    - Building Elements
+    - Building Actions
+    - Loading Data
+    - Publishing & Versioning
+    - Github Integration
+
 - Building Templates
 - Application and data ownership
 - Bug reports
