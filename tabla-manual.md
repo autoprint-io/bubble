@@ -391,7 +391,6 @@ TABLE OF CONTENTS
     - Zapier
     - Ziggeo
     - Pinterest
-
 - Application Settings  >
     - App plan
     - General
@@ -403,11 +402,8 @@ TABLE OF CONTENTS
     - Sub-apps
     - Versions
 
-
-
-
 + ACCOUNT & MARKETPLACE
-- Account & Billing  >
+  - Account & Billing  >
     - Pricing and workload  >
     - Account Management
     - Building Apps for Others
@@ -430,24 +426,9 @@ TABLE OF CONTENTS
 - Application and data ownership
 - Bug reports
 
-
-
-
-
 + PRE-RELEASE
- - Dynamic expressions (beta)
+  - Dynamic expressions (beta)
 
 
-
-  - ## API
-    - ### The Bubble API
-      - #### The Data API
-        - ##### Authentication
-        - ##### Data API endpoints
-        - ##### Data API requests
-      - #### The Workflow API
-    - ### The API Connector
-      - #### Authentication
-      - #### Adding calls
 
 
