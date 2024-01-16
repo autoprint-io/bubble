@@ -283,7 +283,8 @@ TABLE OF CONTENTS
     - Template tab
     - Toolbar
     - Top and context menu options
-    - Deployment and version control
+    - Deployment and version control  >
+      - Deployment & Version Control Dropdown (legacy)
     - Notes
 
 - Elements  >
@@ -295,7 +296,8 @@ TABLE OF CONTENTS
     - Responsive Properties (Legacy)
     - Conditional formatting
     - States
-    - Page Element
+    - Page Element  >
+      - Page Element (Legacy)
     - Visual Elements
     - Containers
     - Container Layout Types
@@ -328,8 +330,12 @@ TABLE OF CONTENTS
 
 - Styles
 - API  >
-    - The Bubble API
-    - The API Connector
+    - The Bubble API  >
+      - The Data API  >
+      - The Workflow API
+    - The API Connector >
+      - Authentication
+      - Adding calls
 
 - Bubble-made Plugins  >
     - AddtoAny Share Buttons
