@@ -3,10 +3,10 @@
 ## TABLE OF CONTENTS
 
 + INTRO
-- Introduction
-- New? Start Here
-- What is Bubble?
-- The Glossary
+ - Introduction
+ - New? Start Here
+ - What is Bubble?
+ - The Glossary
 
 
 + USER MANUAL
