@@ -11,6 +11,13 @@
 
 + USER MANUAL
 - Getting started
+ - Account & Billing
+ - Official Bubble Certification
+ - Building Plugins
+ - Building Templates
+ - Application and data ownership
+ - Bug reports
+
 - Design
 - Data
 - Logic
