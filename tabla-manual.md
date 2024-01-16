@@ -12,57 +12,257 @@ TABLE OF CONTENTS
 + USER MANUAL
   - Getting started  >
     - What is Bubble?
-    - Building your first app
+    - Building your first app  >
+      - Planning features
+      - Database structure
+      - Design and UX
     - Creating and managing apps
-    - The Bubble editor
+    - The Bubble editor  >
+      - Tabs and sections  >
+        - Design tab  >
+          - The element tree
+          - The property editor
+        - Workflow tab
+        - Data tab
+        - Styles tab
+        - Plugins tab
+        - Settings tab
+         - Application settings  >
+           - Custom headers/body
+           - Visual settings
+           - Social media sharing
+           - Translating your app
+           - Email settings
+           - Collaboration
+         - Custom domain and DNS
+        - Logs tab
+      - Tools  >
+        - Key features
+        - The search tool
+        - The issue tracker
+        - The element tree
+        - The element property editor
+        - The debugger
+        - Notes
+      - Previewing your app
+      - Deploying your app
+
   - Design  >
     - Elements
-    - Styling
-    - Responsive design
+      - The element hierarchy  >
+        - The element tree
+      - The page
+      - Containers  >
+        - Groups
+        - Repeating groups
+        - Table elements
+        - Popups
+        - Floating groups
+        - Group focus
+      - Visual elements
+      - Input forms  >
+        - Text and numbers
+        - Dates and time
+        - File uploads
+        - Selection controls
+      - Reusable Elements
+    - Styling  >
+      - Color variables
+      - Font variables
+      - Styles
+      - Custom Fonts
+    - Responsive design  >
+      - Building responsive pages
+      - Legacy articles  >
+        - The Basics (Legacy)
+        - Building Responsive Pages (Legacy)
+        - Migrating Legacy Pages
+        - Tips When Designing (Legacy)
     - Templates
     - The Component Library
     - Importing from Figma
 
 - Data  >
-    - The database
+    - The database  >
+      - Data types and fields
+      - Creating, saving and deleting data
+      - Finding data
+      - Displaying data
+      - Protecting data with privacy rules
+      - The database editor
+      - Export/import data  >
+        - Exporting data
+        - Importing data (CSV)
+      - Working with location data
+      - Using Algolia
+      - Database structure by app type  >
+        - Marketplace Apps
+        - Directory & Listings Apps
+        - Social Network Apps
+        - SaaS Apps
+        - Project Management Apps
+        - CRM Apps
+        - Professional Services Apps
+        - On-demand Apps
+        - Documentation/ CMS Apps
+        - Applicant Tracking System (ATS) Apps
+        - Portfolio Apps
+        - Gallery Apps
+        - Online Store / Ecommerce Apps
+        - Blog Apps
+        - Messaging App
+        - Dashboards
+        - Building Block Apps
+        - Bubble as a backend
     - Files
-    - Static data
-    - Temporary data
+    - Static data  >
+      - App texts (translations)
+      - Option sets
+    - Temporary data  >
+      - Custom states
+      - URL parameters
     - User accounts
+      - Authentication plugins  >
+        - Facebook plugin
+        - Fitbit plugin
+        - Google plugin
+        - Instagram plugin
+        - LinkedIn plugin
+        - Pinterest plugin
+        - Slack plugin
+        - Wistia plugin
+        - YouTube plugin
+      - Cookies set by Bubble
 
 - Logic  >
     - The frontend and backend
-    - Workflows
+    - Workflows  >
+      - Events  >
+        - Frontend events  >
+          - Recurring workflows
+          - Custom events
+        - Backend events  >
+          - Database trigger events
+      - Actions
+      - API Workflows
     - Dynamic expressions
     - Conditions
-    - Navigation
+    - Navigation  >
+      - Single-page applications (SPA)
+      - Multi-page applications
+      - Page slugs
 
 - Maintenance  >
     - Collaborators
-    - Version control
+    - Version control  >
+      - Best practices: Version control
+      - Transitioning from the legacy version control
+      - Terminology: Version control
+      - Version Control (legacy)
     - Commenting
-    - Database maintenance
-    - Performance
-    - SEO
-    - Testing and debugging
+    - Database maintenance  >
+      - Copying the database
+      - Restoring database backups
+      - Bulk operations
+      - Wiping change history
+    - Performance  >
+      - Optimizing for workload  >
+        - Understanding the workload calculation
+        - Planning for workload
+        - Searches
+        - Page load
+        - Workflows and actions
+        - Backend workflows
+      - Hard limits
+      - Capacity Usage (legacy)
+      - Notes on queries
+    - SEO  >
+      - Introduction to SEO
+      - SEO: App
+      - SEO: Page
+    - Testing and debugging  >
+      - Introduction to testing and debugging
+      - The debugger
+      - The server logs
+      - Supported browsers
     - API workflow scheduler
 
 - Integrations  >
-    - API
-    - Plugins
+    - API  >
+      - Introduction to APIs  >
+        - What is a RESTful API?
+      - The Bubble API  >
+        - Bubble API terminology
+        - Authentication  >
+          - How to authenticate
+          - No authentication
+          - As a User
+          - As an admin
+        - The Data API  >
+          - Data API Privacy Rules
+          - Data API endpoints
+          - Data API requests
+        - The Workflow API  >
+          - Workflow API Privacy Rules
+          - Workflow API endpoints
+          - API workflows  >
+            - Creating API workflows
+            - Scheduling API workflows
+            - Recursive API workflows
+            - API Workflow Scheduler
+            - Case: Stripe notifications
+      - The API Connector  >
+        - Authentication
+        - API Connector security
+        - Case: Google Translate  >
+          - How to setup Google API keys
+      - API security
+      - Plugins that connect to APls
+      - API Glossary
+    - Plugins  >
+      - What Plugins Can Do
+      - Installing and using Plugins
+      - Authentication plugins
+      - Special Plugins
     - SQL Database Connector
     - Bubble App Connector
 
 - Infrastructure  >
-    - Security
+    - Security  >
+      - Bubble's security features
+      - Planning app security
+      - Client-side and server-side
+      - Bubble account security
+      - App security
+      - Page security
+      - Database security
+      - API security
+      - Cookies
+      - Security checklist
     - Sub-apps
     - Bubble release tiers
-    - Hosting and scaling
-    - Compliance
+    - Hosting and scaling  >
+      - How Bubble hosting works
+      - Scaling with Bubble
+      - CDN (Cloudflare)
+      - Domain and DNS
+      - Bubble app names
+    - Compliance  >
+      - GDPR
+      - SOC 2 Type ||
+      - HIPAA
+      - Other frameworks and standards
 
 - Bubble for Enterprise  >
-    - Hosting and infrastructure
-    - Security and compliance
+    - Hosting and infrastructure  >
+      - Dedicated instance
+    - Security and compliance  >
+      - Single sign-on (SSO)
+      - GDPR
+      - SOC 2 Type I|
+      - HIPAA
+      - Other frameworks
+      - Bubble's security features
     - Admin and collaboration
     - Priority support
 
