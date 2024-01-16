@@ -60,3 +60,16 @@
  - Dynamic expressions (beta)
 
 
+
+  - ## API
+    - ### The Bubble API
+      - #### The Data API
+        - ##### Authentication
+        - ##### Data API endpoints
+        - ##### Data API requests
+      - #### The Workflow API
+    - ### The API Connector
+      - #### Authentication
+      - #### Adding calls
+
+
