@@ -1,15 +1,15 @@
 ## Tabla de Contenido
 
-1. [Introducción]
-2. [Optimizaciones Generales de la Aplicación]
-3. [Optimización de Búsquedas y Velocidad](
-4. [Trucos de Diseño]
-5. [Flujos de Trabajo en el Backend]
-6. [Organizar tu Aplicación para Escalar]
-7. [Mis Plugins Favoritos]
-8. [Mis APIs Favoritas]
-9. [Consejos Variados]
-10. [Recursos Adicionales]
+1. Introducción
+2. Optimizaciones Generales de la Aplicación
+3. Optimización de Búsquedas y Velocidad
+4. Trucos de Diseño
+5. Flujos de Trabajo en el Backend
+6. Organizar tu Aplicación para Escalar
+7. Mis Plugins Favoritos
+8. Mis APIs Favoritas
+9. Consejos Variados
+10. Recursos Adicionales
 
 ## Introducción
 
