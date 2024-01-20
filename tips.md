@@ -1,6 +1,6 @@
 ## Tabla de Contenido
 
-1. [Introducción][## Introducción]
+1. [Introducción][Introducción]
 2. [Optimizaciones Generales de la Aplicación](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#optimizaciones-generales-de-la-aplicaci%C3%B3n)
 3. [Optimización de Búsquedas y Velocidad](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#optimizaci%C3%B3n-de-b%C3%BAsquedas-y-velocidad)
 4. [Trucos de Diseño](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#trucos-de-dise%C3%B1o)
