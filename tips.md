@@ -1,15 +1,15 @@
 ## Tabla de Contenido
 
-1. [Introducción][Introducción]
-2. [Optimizaciones Generales de la Aplicación](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#optimizaciones-generales-de-la-aplicaci%C3%B3n)
-3. [Optimización de Búsquedas y Velocidad](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#optimizaci%C3%B3n-de-b%C3%BAsquedas-y-velocidad)
-4. [Trucos de Diseño](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#trucos-de-dise%C3%B1o)
-5. [Flujos de Trabajo en el Backend](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#flujos-de-trabajo-en-el-backend)
-6. [Organizar tu Aplicación para Escalar](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#organizar-tu-aplicaci%C3%B3n-para-escalar)
-7. [Mis Plugins Favoritos](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#mis-plugins-favoritos)
-8. [Mis APIs Favoritas](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#mis-apis-favoritas)
-9. [Consejos Variados](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#consejos-variados)
-10. [Recursos Adicionales](https://chat.openai.com/c/5648716d-7e1c-4d51-82db-bed3d83792cc#recursos-adicionales)
+1. [Introducción]
+2. [Optimizaciones Generales de la Aplicación]
+3. [Optimización de Búsquedas y Velocidad](
+4. [Trucos de Diseño]
+5. [Flujos de Trabajo en el Backend]
+6. [Organizar tu Aplicación para Escalar]
+7. [Mis Plugins Favoritos]
+8. [Mis APIs Favoritas]
+9. [Consejos Variados]
+10. [Recursos Adicionales]
 
 ## Introducción
 
