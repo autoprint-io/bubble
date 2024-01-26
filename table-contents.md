@@ -203,56 +203,56 @@
             - Data API requests
          + The Workflow API
             - Workflow API Privacy Rules
-- Workflow API endpoints
-+ API workflows
-   - Creating API workflows
-   - Scheduling API workflows
-   - Recursive API workflows
-   - API Workflow Scheduler
-   - Case: Stripe notifications
-+ The API Connector
-   - Authentication
-   - API Connector security
-   + Case: Google Translate
-      - How to setup Google API keys
-- API security
-- Plugins that connect to APIs
-- API Glossary
-+ Plugins
-   - What Plugins Can Do
-   - Installing and using Plugins
-   - Authentication plugins
-   - Special Plugins
-- SQL Database Connector
-- Bubble App Connector
+            - Workflow API endpoints
+            + API workflows
+               - Creating API workflows
+               - Scheduling API workflows
+               - Recursive API workflows
+               - API Workflow Scheduler
+               - Case: Stripe notifications
+      + The API Connector
+         - Authentication
+         - API Connector security
+         + Case: Google Translate
+            - How to setup Google API keys
+      - API security
+      - Plugins that connect to APIs
+      - API Glossary
+   + Plugins
+      - What Plugins Can Do
+      - Installing and using Plugins
+      - Authentication plugins
+      - Special Plugins
+   - SQL Database Connector
+   - Bubble App Connector
 + Infrastructure
    + Security
-+ Bubble's security features
-   - Planning app security
-   - Client-side and server-side
-   - Bubble account security
-   - App security
-   - Page security
-   - Database security
-   + API security
-      - API Connector security
-      - Data API security
-      - Workflow API security
-   - Cookies
-   - Security checklist
-- Sub-apps
-- Bubble release tiers
-+ Hosting and scaling
-   - How Bubble hosting works
-   - Scaling with Bubble
-   - CDN (Cloudflare)
-   - Domain and DNS
-   - Bubble app names
-+ Compliance
-   - GDPR
-- SOC 2 Type II
-- HIPAA
-- Other frameworks and standards
+     + Bubble's security features
+     - Planning app security
+     - Client-side and server-side
+     - Bubble account security
+     - App security
+     - Page security
+     - Database security
+     + API security
+        - API Connector security
+        - Data API security
+        - Workflow API security
+     - Cookies
+     - Security checklist
+  - Sub-apps
+  - Bubble release tiers
+  + Hosting and scaling
+     - How Bubble hosting works
+     - Scaling with Bubble
+     - CDN (Cloudflare)
+     - Domain and DNS
+     - Bubble app names
+  + Compliance
+     - GDPR
+     - SOC 2 Type II
+     - HIPAA
+     - Other frameworks and standards
 + Bubble for Enterprise
    + Hosting and infrastructure
       - Dedicated instance
@@ -265,8 +265,9 @@
       - Bubble's security features
    - Admin and collaboration
    - Priority support
-### CORE REFERENCE
+ 
 
+### CORE REFERENCE
 - Using the core reference
 + Bubble's Interface
    - Design tab
