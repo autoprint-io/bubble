@@ -35,96 +35,96 @@
                - Social media sharing
                - Translating your app
                - Email settings
-- Collaboration
-- Custom domain and DNS
-- Logs tab
-+ Tools
-   - Key features
-   - The search tool
-   - The issue tracker
-   - The element tree
-   - The element property editor
-   - The debugger
-   - Notes
-- Previewing your app
-- Deploying your app
-+ Design
-   + Elements
-      + The element hierarchy
+               - Collaboration
+            - Custom domain and DNS
+         - Logs tab
+      + Tools
+         - Key features
+         - The search tool
+         - The issue tracker
          - The element tree
+         - The element property editor
+         - The debugger
+         - Notes
+      - Previewing your app
+      - Deploying your app
++ Design
+  + Elements
+    + The element hierarchy
+      - The element tree
       - The page
-      + Containers
-         - Groups
-         - Repeating groups
-         - Table elements
-         - Popups
-         - Floating groups
-         - Group focus
+    + Containers
+      - Groups
+      - Repeating groups
+      - Table elements
+      - Popups
+      - Floating groups
+      - Group focus
       - Visual elements
-+ Input forms
-   - Text and numbers
-   - Dates and time
-   - File uploads
-   - Selection controls
-- Reusable Elements
-+ Styling
+    + Input forms
+      - Text and numbers
+      - Dates and time
+      - File uploads
+      - Selection controls
+      - Reusable Elements
+  + Styling
    - Color variables
    - Font variables
    - Styles
    - Custom Fonts
-+ Responsive design
-   - Building responsive pages
-   + Legacy articles
+  + Responsive design
+    - Building responsive pages
+    + Legacy articles
       - The Basics (Legacy)
       - Building Responsive Pages (Legacy)
       - Migrating Legacy Pages
       - Tips When Designing (Legacy)
-- Templates
-- The Component Library
-- Importing from Figma
+  - Templates
+  - The Component Library
+  - Importing from Figma
 + Data
-   + The database
-      - Data types and fields
-      - Creating, saving and deleting data
-      - Finding data
-      - Displaying data
-      - Protecting data with privacy rules
-      - The database editor
-   + Export/import data
+  + The database
+    - Data types and fields
+    - Creating, saving and deleting data
+    - Finding data
+    - Displaying data
+    - Protecting data with privacy rules
+    - The database editor
+    + Export/import data
       - Exporting data
       - Importing data (CSV)
-      - Working with location data
-      - Using Algolia
-   + Database structure by app type
+    - Working with location data
+    - Using Algolia
+    + Database structure by app type
       - Marketplace Apps
       - Directory & Listings Apps
-- Marketplace Apps
-- Directory & Listings Apps
-- Social Network Apps
-- SaaS Apps
-- Project Management Apps
-- CRM Apps
-- Professional Services Apps
-- On-demand Apps
-- Documentation/ CMS Apps
-- Applicant Tracking System (ATS) Apps
-- Portfolio Apps
-- Gallery Apps
-- Online Store / Ecommerce Apps
-- Blog Apps
-- Messaging App
-- Dashboards
-- Building Block Apps
-- Bubble as a backend
-- Files
-+ Static data
+      - Marketplace Apps
+      - Directory & Listings Apps
+      - Social Network Apps
+      - SaaS Apps
+      - Project Management Apps
+      - CRM Apps
+      - Professional Services Apps
+      - On-demand Apps
+      - Documentation/ CMS Apps
+      - Applicant Tracking System (ATS) Apps
+      - Portfolio Apps
+      - Gallery Apps
+      - Online Store / Ecommerce Apps
+      - Blog Apps
+      - Messaging App
+      - Dashboards
+       - Building Block Apps
+      - Bubble as a backend
+  - Files
+  + Static data
    - App texts (translations)
    - Option sets
-+ Temporary data
+  + Temporary data
    - Custom states
    - URL parameters
-+ User accounts
-   + Authentication plugins
+  + User accounts
+    + Authentication plugins
       - Facebook plugin
       - Fitbit plugin
       - Google plugin
@@ -134,7 +134,7 @@
       - Slack plugin
       - Wistia plugin
       - YouTube plugin
-   - Cookies set by Bubble
+    - Cookies set by Bubble
 + Logic
    - The frontend and backend
    + Workflows
@@ -157,35 +157,35 @@
    + Version control
       - Best practices: Version control
       - Transitioning from the legacy version control
-- Terminology: Version control
-- Version Control (legacy)
-- Commenting
-+ Database maintenance
-   - Copying the database
-   - Restoring database backups
-   - Bulk operations
-   - Wiping change history
-+ Performance
-   + Optimizing for workload
-      - Understanding the workload calculation
-      - Planning for workload
-      - Searches
-      - Page load
-      - Workflows and actions
-      - Backend workflows
-- Hard limits
-- Capacity Usage (legacy)
-- Notes on queries
-+ SEO
-   - Introduction to SEO
-   - SEO: App
-   - SEO: Page
-+ Testing and debugging
-   - Introduction to testing and debugging
-   - The debugger
-   - The server logs
-   - Supported browsers
-- API workflow scheduler
+      - Terminology: Version control
+      - Version Control (legacy)
+   - Commenting
+   + Database maintenance
+     - Copying the database
+     - Restoring database backups
+     - Bulk operations
+     - Wiping change history
+   + Performance
+     + Optimizing for workload
+        - Understanding the workload calculation
+        - Planning for workload
+        - Searches
+        - Page load
+        - Workflows and actions
+        - Backend workflows
+     - Hard limits
+     - Capacity Usage (legacy)
+     - Notes on queries
+   + SEO
+     - Introduction to SEO
+     - SEO: App
+     - SEO: Page
+   + Testing and debugging
+     - Introduction to testing and debugging
+     - The debugger
+     - The server logs
+     - Supported browsers
+   - API workflow scheduler
 + Integrations
    + API
       + Introduction to APIs
@@ -426,4 +426,3 @@
 ### PRE-RELEASE
 
 - Dynamic expressions (beta)
-
